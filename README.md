@@ -8,3 +8,7 @@ This got my ESP32-S3 working with platformio and vscode.
 
 Put the json file in your project's `boards` folder and use the settings
 from `platformio.ini`.  I only have the LCD working at the moment.
+
+## TODO
+
+Examples of touch, gyro, and lvgl working in plantio.
